@@ -83,7 +83,8 @@ members:
         url: http://twitter.com/handle
   - name: Harmish Khambaita
     position: Researcher (Robot Navigation)
-    text: Harmish will write it here later!!!!
+    text: Harmish is currently a Phd candidate at LAAS-CNRS and pursuing his thesis in human centered 
+      Robotics interactions. He will take care of the navigation based robotics projects.
     img: harmish.jpg
     social:
       - title: envelope #use for email address
