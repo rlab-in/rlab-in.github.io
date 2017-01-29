@@ -55,7 +55,7 @@ members:
           Compliance robotics system for safe human-robot ineraction at LAAS CNRS in France. Ganesh oversees
           the creative direction at R-LAB, take up some courses and offer projects as well as take care of
           business development.
-    img: ganeshsmall.jpg
+    img: ganesh200.jpg
     social:
       - title: envelope #use for email address
         url: mailto:gtech.005@gmail.com
@@ -66,7 +66,7 @@ members:
     text: Anny D has  worked in IT firms for several years and have good experience in managing onsite and online projects.
           Anny’s charm and willingness to talk to anyone and everyone has been key to building our large local client base.
           Despite her fondness for chit chat, Anny is a bit of a book worm and likes nothing more than a night in with a good book.
-    img: annysmall.jpg
+    img: anny200.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
@@ -75,7 +75,7 @@ members:
   - name: MuKunda Bhartheesha
     position: Researcher (Control System)
     text: Mukunda is currently a PhD candidate at TU-Delf in Netherland. He is  pursuing his thesis in path planning , manipulation and control of dexterous robotic arm.
-    img: mukundasmall.jpg
+    img: mukunda200.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
@@ -85,7 +85,7 @@ members:
     position: Researcher (Robot Navigation)
     text: Harmish is currently a PhD candidate at LAAS-CNRS and pursuing his thesis in human centered 
       robotics interactions. His area of research interests include path planning and navigation of mobile robots in crowded human environemnt.
-    img: harmishsmall.jpg
+    img: harmish200.jpg
     social:
       - title: envelope #use for email address
         url: mailto:harmish.khambhaita@hotmail.com
