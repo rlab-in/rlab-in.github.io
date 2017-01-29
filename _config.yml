@@ -75,7 +75,7 @@ members:
   - name: MuKunda Bhartheesha
     position: Researcher (Control System)
     text: Mukunda is currently a PhD candidate at TU-Delf in Netherland. He is  pursuing his thesis in path planning , manipulation and control of dexterous robotic arm.
-    img: mukunda.jpg
+    img: mukundasmall.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
@@ -85,7 +85,7 @@ members:
     position: Researcher (Robot Navigation)
     text: Harmish is currently a PhD candidate at LAAS-CNRS and pursuing his thesis in human centered 
       robotics interactions. His area of research interests include path planning and navigation of mobile robots in crowded human environemnt.
-    img: harmish.jpg
+    img: harmishsmall.jpg
     social:
       - title: envelope #use for email address
         url: mailto:harmish.khambhaita@hotmail.com
