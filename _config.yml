@@ -49,8 +49,7 @@ email: admin@r-lab.in
 members:
   - name: Ganesh Kumar
     position: Founder and Principal
-    text: Ganesh once dreamed of making his own humanoid robot which can play with him in his childhood.
-          He is still chasing his dream. He pursued his master degree in Automation and Control and gained
+    text: Ganesh is chasing his dream to develop robots for human welfare. He pursued his master degree in Automation and Control and gained
           some experience  at MIT, USA  during his internship. Currently, He is pursuing his Doctorate in
           Compliance robotics system for safe human-robot ineraction at LAAS CNRS in France. Ganesh oversees
           the creative direction at R-LAB, take up some courses and offer projects as well as take care of
@@ -74,7 +73,9 @@ members:
         url: http://twitter.com/handle
   - name: Mukunda Bhartheesha
     position: Researcher (Control System)
-    text: Mukunda is currently a PhD candidate at TU-Delf in Netherland. He is  pursuing his thesis in path planning , manipulation and control of dexterous robotic arm.
+    text: Mukunda is currently a PhD candidate at TU-Delft in Netherland. He is  pursuing his thesis in path planning, 
+          manipulation and control of dexterous robotic arm. He supervises robotics projects involving manipulation 
+          and control of mobile manipulators.
     img: mukunda200.jpg
     social:
       - title: envelope #use for email address
@@ -85,7 +86,8 @@ members:
     position: Researcher (Robot Navigation)
     text: Harmish is currently a PhD candidate at LAAS-CNRS and pursuing his thesis in human centered 
       robotics interactions. His area of research interests include path planning and navigation of mobile 
-      robots in crowded human environemnt.
+      robots in crowded human environemnt. He supervises navigation of autonomous vehicles/robots in densly 
+      populated area.
     img: harmish200.jpg
     social:
       - title: envelope #use for email address
