@@ -62,7 +62,7 @@ members:
       - title: twitter
         url: http://twitter.com/ganesh_kum
   - name: Anny D
-    position:  Project Manager
+    position:  Project Coordinater
     text: Anny D has  worked in IT firms for several years and have good experience in managing onsite and online projects.
           Anny’s charm and willingness to talk to anyone and everyone has been key to building our large local client base.
           Despite her fondness for chit chat, Anny is a bit of a book worm and likes nothing more than a night in with a good book.
@@ -72,7 +72,7 @@ members:
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-  - name: MuKunda Bhartheesha
+  - name: Mukunda Bhartheesha
     position: Researcher (Control System)
     text: Mukunda is currently a PhD candidate at TU-Delf in Netherland. He is  pursuing his thesis in path planning , manipulation and control of dexterous robotic arm.
     img: mukunda200.jpg
@@ -84,7 +84,8 @@ members:
   - name: Harmish Khambaita
     position: Researcher (Robot Navigation)
     text: Harmish is currently a PhD candidate at LAAS-CNRS and pursuing his thesis in human centered 
-      robotics interactions. His area of research interests include path planning and navigation of mobile robots in crowded human environemnt.
+      robotics interactions. His area of research interests include path planning and navigation of mobile 
+      robots in crowded human environemnt.
     img: harmish200.jpg
     social:
       - title: envelope #use for email address
@@ -104,7 +105,8 @@ members:
 #     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "We’re an energetic, flexible, and open-minded team ready to work hard for our clients. If you’re interested in working with us, please send us a message!"
+about: "We’re an energetic, flexible, and open-minded team. If you’re interested in becoming the part of our 
+online laboratory, please send us a message!"
 
 # # Testimonial content. Shown on Home and About page.
 # testimonial:
