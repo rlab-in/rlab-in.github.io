@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Robonaut: NASA's robot to assist astronauts"
+date: 2017-02-01 03:05:30
+author: Admin
+categories:
+- projects
+img: robonaut.png
+thumb: robooarmthumb01.jpg
+---
+
+Robonaut is a humanoid torso robot developed by NASA to assist astronauts at ISS (International Space Station). 
+In this project, we will give the model of the robot and the goal is to develop application using this robot.
+ <!--more-->
+The main objective is to understand motion planning for humanoid robots. In this project, students are encouraged to 
+develop a motion plan to execute a task of opening/closing a safety port at ISS. Extensive use of Moveit! 
+and other tools will be introduced.
+ 
+Students can join the project and discuss with the project owner about their responsibilities.
+
+
+
+Project Level: Undergraduate to Phd/
+
+Project scope:
+
+* Study and develop a motion planner for humanoid robots
+* Learn and apply advance motion planner like Moveit!
+* Effects of Self Collision avoidance and various other constraints on motion planning
+
+
+Requirements:
+Students from all level from undergraduate to Phd level can join this project
+
+Recommended background: Electronics/Eectrical, computer Science, Mechanical, and similar
+
+Send us an email with subject "Robonaut" if you want to be the part of this project
+
+
+[hampden]: https://github.com/
