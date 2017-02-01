@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Industrial arm with seven degree of freedom"
+title: "Industrial arm with seven degrees of freedom"
 date: 2017-02-01 03:05:30
 author: Admin
 categories:
 - projects
-img: roboarmpost01.png
+img: roboarm.png
 thumb: robooarmthumb01.jpg
 ---
 
@@ -14,7 +14,7 @@ We propose to use such an arm wich has seven degrees of freedom.
  <!--more-->
 The goal is to develop the entire model in the simulator. Using this model, We will cover the basics 
 like kinematics and dynamics of robot manipulator. Using advanced algorithm for motion planning, 
-applications will be develooped where the robot will paint some simple designs like circle or ellipse. 
+applications will be developed where the robot will paint some simple designs like circle or ellipse. 
 Students can join the project and discuss with the project owner about their responsibilities.
 
 
