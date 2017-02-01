@@ -10,13 +10,13 @@ thumb: diffdriverobothumb01.jpg
 ---
 
 Autonomous navigation is one of the most interesting research area in the present time with the boom 
-in the market of autonomous vehicle and autopilot. Herem we propose to start learning the algorithms 
-behind these autopilots by applyin on a simple differential drive mobile robot platform wich is equipped 
-with sensors like laser scanner for localization. 
+in the market of autonomous vehicle and autopilot. Here, we propose to start learning the algorithms 
+behind these autopilots by applying on a simple differential drive mobile robot platform which is equipped 
+with sensor like laser scanner for localization. 
  <!--more-->
-The goal is to first develop the entire model of the robot with the sensors in the simulator. Using this model, We will cover the basics 
-of path planning, obstacle avoidance and sensor fusion algorithms. The robot is supposed to travel and map an unknown environment with static obstacles. 
-Students can join the project and discuss with the project owner about their responsibilities.
+The goal is to first develop the entire model of the robot including the sensor in the simulator. Using this model, 
+We will cover the basics of path planning, obstacle avoidance and sensor fusion algorithms. The robot is supposed 
+to travel and map an unknown environment with static obstacles. Students can join the project and discuss with the project owner about their responsibilities.
 
 
 

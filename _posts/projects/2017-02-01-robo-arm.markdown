@@ -10,7 +10,7 @@ thumb: robooarmthumb01.jpg
 ---
 
 Industrial robotic arm is one of the classic platform to learn the basics of robotics.  
-We propose to use such an arm wich has seven degrees of freedom.
+We propose to use such an arm which has seven degrees of freedom.
  <!--more-->
 The goal is to develop the entire model in the simulator. Using this model, We will cover the basics 
 like kinematics and dynamics of robot manipulator. Using advanced algorithm for motion planning, 
@@ -19,7 +19,7 @@ Students can join the project and discuss with the project owner about their res
 
 
 
-Project Level: Undergraduate to Phd
+Project Level: Undergraduate to Phd/
 
 Project scope:
 
