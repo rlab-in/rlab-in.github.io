@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Industrial arm with seven degree of freedom"
+date: 2017-02-01 03:05:30
+author: Admin
+categories:
+- projects
+img: roboarmpost01.png
+thumb: robooarmthumb01.jpg
+---
+
+Industrial robotic arm is one of the classic platform to learn the basics of robotics.  
+We propose to use such an arm wich has seven degrees of freedom.
+ <!--more-->
+The goal is to develop the entire model in the simulator. Using this model, We will cover the basics 
+like kinematics and dynamics of robot manipulator. Using advanced algorithm for motion planning, 
+applications will be develooped where the robot will paint some simple designs like circle or ellipse. 
+Students can join the project and discuss with the project owner about their responsibilities.
+
+
+
+Project Level: Undergraduate to Phd
+
+Project scope:
+
+* Study and develop a kinematic model for an industrial robotic  arm with several joints.
+* Develop a URDF and 3D model and simulate the kinematics in Simulator (ROS and Gazebo)
+* System modelling  for a standard robotic manipulator
+* Design controller to move the arm.
+* Learn motion planning technique to design the movement of the arm
+
+
+Requirements:
+Students from all level from undergraduate to Phd level can join this project
+
+Recommended background: Electronics/Eectrical, computer Science, Mechanical, and similar
+
+Send us an email with subject "Robo-Arm" if you want to be the part of this project
+
+
+[hampden]: https://github.com/
