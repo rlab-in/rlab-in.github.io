@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Drone: Trajectory planning of a quadrotor drone"
+title: "Robonaut: NASA's robot to assist astronauts"
 date: 2017-02-01 03:05:30
 author: Admin
 categories:
