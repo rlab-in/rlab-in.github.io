@@ -5,8 +5,8 @@ title: R-LAB
 description: "Robotics Open Laboratory. An online platform for robotics research."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://r-lab.in"
-
+url: "http://rlab-in.github.io"
+#"http://r-lab.in"
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title
