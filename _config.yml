@@ -94,7 +94,7 @@ members:
         url: mailto:harmish.khambhaita@hotmail.com
       - title: twitter
         url: http://twitter.com/harmishhk
-
+gems: [jekyll-coffeescript, jekyll-watch, jekyll-assets]
 # # Clients information. Shown on Home and About pages.
 # clients:
 #   - name: dribbble
