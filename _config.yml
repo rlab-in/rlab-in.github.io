@@ -5,8 +5,8 @@ title: R-LAB
 description: "Robotics Open Laboratory. An online platform for robotics research."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://r-lab.in"
-
+url: "http://rlab-in.github.io"
+#"http://r-lab.in"
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title
@@ -49,33 +49,34 @@ email: admin@r-lab.in
 members:
   - name: Ganesh Kumar
     position: Founder and Principal
-    text: Ganesh once dreamed of making his own humanoid robot which can play with him in his childhood.
-          He is still chasing his dream. He pursued his master degree in Automation and Control and gained
+    text: Ganesh is chasing his dream to develop robots for human welfare. He pursued his master degree in Automation and Control and gained
           some experience  at MIT, USA  during his internship. Currently, He is pursuing his Doctorate in
           Compliance robotics system for safe human-robot ineraction at LAAS CNRS in France. Ganesh oversees
           the creative direction at R-LAB, take up some courses and offer projects as well as take care of
           business development.
-    img: ganesh.jpg
+    img: ganesh200.jpg
     social:
       - title: envelope #use for email address
         url: mailto:gtech.005@gmail.com
       - title: twitter
         url: http://twitter.com/ganesh_kum
   - name: Anny D
-    position:  Project Manager
+    position:  Project Coordinater
     text: Anny D has  worked in IT firms for several years and have good experience in managing onsite and online projects.
           Anny’s charm and willingness to talk to anyone and everyone has been key to building our large local client base.
           Despite her fondness for chit chat, Anny is a bit of a book worm and likes nothing more than a night in with a good book.
-    img: anny.jpg
+    img: anny200.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-  - name: MuKunda Bhartheesha
+  - name: Mukunda Bhartheesha
     position: Researcher (Control System)
-    text: Mukunda will write it here later!!!!
-    img: mukunda.jpg
+    text: Mukunda is currently a PhD candidate at TU-Delft in Netherland. He is  pursuing his thesis in path planning, 
+          manipulation and control of dexterous robotic arm. He supervises robotics projects involving manipulation 
+          and control of mobile manipulators.
+    img: mukunda200.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
@@ -83,15 +84,17 @@ members:
         url: http://twitter.com/handle
   - name: Harmish Khambaita
     position: Researcher (Robot Navigation)
-    text: Harmish is currently a Phd candidate at LAAS-CNRS and pursuing his thesis in human centered 
-      Robotics interactions. He will take care of the navigation based robotics projects.
-    img: harmish.jpg
+    text: Harmish is currently a PhD candidate at LAAS-CNRS and pursuing his thesis in human centered 
+      robotics interactions. His area of research interests include path planning and navigation of mobile 
+      robots in crowded human environemnt. He supervises navigation of autonomous vehicles/robots in densly 
+      populated area.
+    img: harmish200.jpg
     social:
       - title: envelope #use for email address
         url: mailto:harmish.khambhaita@hotmail.com
       - title: twitter
         url: http://twitter.com/harmishhk
-
+gems: [jekyll-coffeescript, jekyll-watch, jekyll-assets]
 # # Clients information. Shown on Home and About pages.
 # clients:
 #   - name: dribbble
@@ -104,7 +107,8 @@ members:
 #     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "We’re an energetic, flexible, and open-minded team ready to work hard for our clients. If you’re interested in working with us, please send us a message!"
+#about: "We’re an energetic, flexible, and open-minded team. If you’re interested in becoming the part of our 
+#online laboratory, please send us a message!"
 
 # # Testimonial content. Shown on Home and About page.
 # testimonial:
