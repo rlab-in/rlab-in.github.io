@@ -116,4 +116,4 @@ gems: [jekyll-coffeescript, jekyll-watch, jekyll-assets]
 #     author: Marcel Newman
 #     position: WEB DESIGNER - BLACKTIE.CO
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-merlot
